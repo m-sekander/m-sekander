@@ -1,5 +1,7 @@
 
-# Hello World, I'm Moin 👨‍💻
+# Hello World, I'm Moin
+
+### About Me 🙋‍♂️
 
 I am a mechanical engineering graduate turned full stack developer. I am passionate about creating products and bringing interesting ideas to life!
 
@@ -8,7 +10,8 @@ I am a mechanical engineering graduate turned full stack developer. I am passion
 - I can be reached at my [LinkedIn](https://www.linkedin.com/in/moinsekander/) 📫
 - I have my projects available on my [Portfolio](https://moinsekander.com/) ⚙️
 
-## My Tech Toolbox 🛠:
+
+### My Tech Toolbox 🛠
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
